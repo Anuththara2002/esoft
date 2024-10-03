@@ -10,3 +10,15 @@ public class Main {
         
     }
 }
+
+package com.mycompany.helloworld;
+
+
+public class Main {
+    
+
+   
+    public static void main(String[] args) {
+        
+    }
+}
